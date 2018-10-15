@@ -122,11 +122,34 @@ add address=2404:6800:4005:800::200e name=embed.culturalspot.org
 # Culturalspot End
 
 # Dropbox Start
+add address=2620:100:6020:2::a27d:4002 name=db.tt
 add address=2620:100:6020:1::a27d:4001 name=www.dropbox.com
 add address=2620:100:6020:1::a27d:4001 name=www.dualstack.dropbox-dns.com
 add address=2620:100:6020:7::a27d:4007 name=api.dropbox.com
 add address=2620:100:6020:7::a27d:4007 name=api.dualstack.dropbox-dns.com
 add address=2620:100:6020:7::a27d:4007 name=api.dropboxapi.com
+add address=2620:100:6020:8::a27d:4008 name=api-content.dropbox.com
+add address=2620:100:6020:5::a27d:4005 name=api-content-photos.dropbox.com
+add address=2600:9000:2020:a400:d:7bbe:2740:93a1 name=blogs.dropbox.com
+add address=2620:100:6020:3::a27d:4003 name=client.dropbox.com
+add address=2620:100:6020:3::a27d:4003 name=client-cf.dropbox.com
+add address=2620:100:6020:4::a27d:4004 name=client-lb.dropbox.com
+add address=2620:100:6020:4::a27d:4004 name=client-web.dropbox.com
+add address=2620:100:6020:6::a27d:4006 name=dl.dropbox.com
+add address=2620:100:6020:6::a27d:4006 name=dl-web.dropbox.com
+add address=2620:100:6032:6::a27d:5206 name=dl-doc.dropbox.com
+add address=2620:100:6032:2::a27d:5202 name=m.dropbox.com
+add address=2620:100:6032:1::a27d:5201 name=photos.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-1.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-2.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-3.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-4.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-5.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-6.dropbox.com
+add address=2620:100:6032:5::a27d:5205 name=photos-thumb.dropbox.com
+add address=2620:100:6032:6::a27d:5206 name=dl.dropboxusercontent.com
+add address=2400:cb00:2048:1::6810:631d name=cfl.dropboxstatic.com
+add address=2620:100:6020:2::a27d:4002 name=log.getdropbox.com
 # Dropbox End
 
 # Modified Hosts End

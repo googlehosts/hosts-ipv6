@@ -31,7 +31,19 @@
 2a00:1450:4001:816::2011	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
 2607:f8b0:400d:c0f::99	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
 2404:6800:4005:800::200e	embed.culturalspot.org
+2620:100:6020:2::a27d:4002	db.tt log.getdropbox.com
 2620:100:6020:1::a27d:4001	www.dropbox.com www.dualstack.dropbox-dns.com
 2620:100:6020:7::a27d:4007	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
+2620:100:6020:8::a27d:4008	api-content.dropbox.com
+2620:100:6020:5::a27d:4005	api-content-photos.dropbox.com
+2600:9000:2020:a400:d:7bbe:2740:93a1	blogs.dropbox.com
+2620:100:6020:3::a27d:4003	client.dropbox.com client-cf.dropbox.com
+2620:100:6020:4::a27d:4004	client-lb.dropbox.com client-web.dropbox.com
+2620:100:6020:6::a27d:4006	dl.dropbox.com dl-web.dropbox.com
+2620:100:6032:6::a27d:5206	dl-doc.dropbox.com dl.dropboxusercontent.com
+2620:100:6032:2::a27d:5202	m.dropbox.com
+2620:100:6032:1::a27d:5201	photos.dropbox.com
+2620:100:6032:5::a27d:5205	photos-1.dropbox.com photos-2.dropbox.com photos-3.dropbox.com photos-4.dropbox.com photos-5.dropbox.com photos-6.dropbox.com photos-thumb.dropbox.com
+2400:cb00:2048:1::6810:631d	cfl.dropboxstatic.com
 
 # Modified Hosts End
