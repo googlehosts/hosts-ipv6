@@ -97,6 +97,24 @@ analyticsacademy.withgoogle.com	2a00:1450:4001:816::2011
 spellup.withgoogle.com	2a00:1450:4001:816::2011
 # Appspot End
 
+# Appspotpreview Start
+author-dot-betaspike.appspot.com	2607:f8b0:400d:c0f::99
+jmoore-dot-android-experiments.appspot.com	2607:f8b0:400d:c0f::99
+mission-author-dot-betaspike.appspot.com	2607:f8b0:400d:c0f::99
+drivenotepad.appspot.com	2607:f8b0:400d:c0f::99
+virustotalcloud.appspot.com	2607:f8b0:400d:c0f::99
+joinjoaomgcd.appspot.com	2607:f8b0:400d:c0f::99
+m-dot-betaspike.appspot.com	2607:f8b0:400d:c0f::99
+download-chromium.appspot.com	2607:f8b0:400d:c0f::99
+google-developers.appspot.com	2607:f8b0:400d:c0f::99
+chrometophone.appspot.com	2607:f8b0:400d:c0f::99
+chrome-devtools-frontend.appspot.com	2607:f8b0:400d:c0f::99
+apis-explorer.appspot.com	2607:f8b0:400d:c0f::99
+betaspike.appspot.com	2607:f8b0:400d:c0f::99
+hstspreload.appspot.com	2607:f8b0:400d:c0f::99
+lfe-alpo-gm.appspot.com	2607:f8b0:400d:c0f::99
+# Appspotpreview End
+
 # Culturalspot Start
 embed.culturalspot.org	2404:6800:4005:800::200e
 # Culturalspot End

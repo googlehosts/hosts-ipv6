@@ -99,6 +99,24 @@ add address=2a00:1450:4001:816::2011 name=analyticsacademy.withgoogle.com
 add address=2a00:1450:4001:816::2011 name=spellup.withgoogle.com
 # Appspot End
 
+# Appspotpreview Start
+add address=2607:f8b0:400d:c0f::99 name=author-dot-betaspike.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=jmoore-dot-android-experiments.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=mission-author-dot-betaspike.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=drivenotepad.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=virustotalcloud.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=joinjoaomgcd.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=m-dot-betaspike.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=download-chromium.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=google-developers.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=chrometophone.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=chrome-devtools-frontend.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=apis-explorer.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=betaspike.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=hstspreload.appspot.com
+add address=2607:f8b0:400d:c0f::99 name=lfe-alpo-gm.appspot.com
+# Appspotpreview End
+
 # Culturalspot Start
 add address=2404:6800:4005:800::200e name=embed.culturalspot.org
 # Culturalspot End
