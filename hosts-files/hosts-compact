@@ -1,0 +1,35 @@
+# Copyright (c) 2017-2018, googlehosts members.
+# https://github.com/googlehosts/hosts
+# Last updated: 2018-10-15
+
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
+
+# Modified Hosts Start
+
+::1	localhost ip6-localhost ip6-loopback
+2607:fcd0:100:1935::19fe:bd14	204-44-101-36.googlehosts.org tg-1.googlehosts.org
+2602:fe90:1:1::8f2a:341f	185-200-34-198.googlehosts.org 185-200-34-209.googlehosts.org tg-2.googlehosts.org tg-4.googlehosts.org
+2402:9e80:0:1000::1:d3b6	45-124-64-82.googlehosts.org tg-6.googlehosts.org
+2400:84c0:2102:0003:0000:0000:1aec:701d	172-86-72-19.googlehosts.org tg-7.googlehosts.org
+2a06:8ec0:3::1:59cb	185-122-58-249.googlehosts.org tg-8.googlehosts.org
+2a06:82c2:0:1272::1	103-105-48-234.googlehosts.org tg-9.googlehosts.org
+2607:fcd0:100:1926::8152:9bab	23-226-136-24.googlehosts.org ss-1.googlehosts.org
+2607:fcd0:100:1926::c28d:6e0d	23-226-136-112.googlehosts.org ss-2.googlehosts.org
+2607:fcd0:100:1925::fdb8:2313	104-223-56-187.googlehosts.org
+2607:fcd0:100:1926::f69e:8063	23-226-136-216.googlehosts.org ss-3.googlehosts.org
+2a02:26f0:e8::6856:6e4b	static.ak.instagram.com
+2a02:26f0:e8::6856:6ec3	images.ak.instagram.com
+2a02:26f0:a1:2a2::1931	s.pinimg.com
+2a04:4e42:4::84	i.pinimg.com
+2a02:26f0:7b:383::1931	s-media-cache-ak0.pinimg.com
+2a02:26f0:7b:39b::1931	passets-cdn.pinterest.com
+2a00:1450:4009:810::2013	a.android.com b.android.com m.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com
+2001:4860:4802:36::4	android.com
+2a00:1450:4010:c06::66	developer.android.com
+2400:cb00:2048:1::6813:843a	www.apkmirror.com
+2404:6800:4005:800::200e	embed.culturalspot.org
+2620:100:6020:1::a27d:4001	www.dropbox.com www.dualstack.dropbox-dns.com
+2620:100:6020:7::a27d:4007	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
+
+# Modified Hosts End
