@@ -36,13 +36,6 @@ else
 
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
-	pushd master
-	git checkout hosts-source
-	git log --oneline
-	git log --oneline $TRAVIS_COMMIT_RANGE | wc -l
-	git checkout master
-	git log --oneline $TRAVIS_COMMIT_RANGE | wc -l
-	popd
 
 	rm master/hosts-files/*
 	cp output/* master/hosts-files/
