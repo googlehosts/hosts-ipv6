@@ -150,4 +150,8 @@
 2620:100:6020:2::a27d:4002	log.getdropbox.com
 # Dropbox End
 
+# Discord Start
+2400:cb00:2048:1::6810:acbd	discord.media
+# Discord End
+
 # Modified Hosts End

@@ -152,4 +152,8 @@ add address=2400:cb00:2048:1::6810:631d name=cfl.dropboxstatic.com
 add address=2620:100:6020:2::a27d:4002 name=log.getdropbox.com
 # Dropbox End
 
+# Discord Start
+add address=2400:cb00:2048:1::6810:acbd name=discord.media
+# Discord End
+
 # Modified Hosts End

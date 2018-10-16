@@ -45,5 +45,6 @@
 2620:100:6032:1::a27d:5201	photos.dropbox.com
 2620:100:6032:5::a27d:5205	photos-1.dropbox.com photos-2.dropbox.com photos-3.dropbox.com photos-4.dropbox.com photos-5.dropbox.com photos-6.dropbox.com photos-thumb.dropbox.com
 2400:cb00:2048:1::6810:631d	cfl.dropboxstatic.com
+2400:cb00:2048:1::6810:acbd	discord.media
 
 # Modified Hosts End
