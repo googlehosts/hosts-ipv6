@@ -49,16 +49,16 @@ add address=2a02:26f0:7b:39b::1931 name=passets-cdn.pinterest.com
 # Akamai End
 
 # Android Start
-add address=2a00:1450:4009:810::2013 name=a.android.com
-add address=2a00:1450:4009:810::2013 name=b.android.com
-add address=2a00:1450:4009:810::2013 name=m.android.com
-add address=2a00:1450:4009:810::2013 name=connectivitycheck.android.com
-add address=2a00:1450:4009:810::2013 name=d.android.com
-add address=2a00:1450:4009:810::2013 name=dev.android.com
-add address=2a00:1450:4009:810::2013 name=market.android.com
-add address=2a00:1450:4009:810::2013 name=r.android.com
-add address=2001:4860:4802:36::4 name=android.com
-add address=2a00:1450:4010:c06::66 name=developer.android.com
+add address=2a00:1450:4010:c09::64 name=a.android.com
+add address=2a00:1450:4010:c09::64 name=b.android.com
+add address=2a00:1450:4010:c09::64 name=m.android.com
+add address=2a00:1450:4010:c09::64 name=connectivitycheck.android.com
+add address=2a00:1450:4010:c09::64 name=d.android.com
+add address=2a00:1450:4010:c09::64 name=dev.android.com
+add address=2a00:1450:4010:c09::64 name=market.android.com
+add address=2a00:1450:4010:c09::64 name=r.android.com
+add address=2a00:1450:4010:c03::68 name=android.com
+add address=2a00:1450:4010:c03::6a name=developer.android.com
 # Android End
 
 # Apkmirror Start

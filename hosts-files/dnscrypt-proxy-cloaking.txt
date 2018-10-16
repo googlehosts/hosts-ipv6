@@ -47,16 +47,16 @@ passets-cdn.pinterest.com	2a02:26f0:7b:39b::1931
 # Akamai End
 
 # Android Start
-a.android.com	2a00:1450:4009:810::2013
-b.android.com	2a00:1450:4009:810::2013
-m.android.com	2a00:1450:4009:810::2013
-connectivitycheck.android.com	2a00:1450:4009:810::2013
-d.android.com	2a00:1450:4009:810::2013
-dev.android.com	2a00:1450:4009:810::2013
-market.android.com	2a00:1450:4009:810::2013
-r.android.com	2a00:1450:4009:810::2013
-android.com	2001:4860:4802:36::4
-developer.android.com	2a00:1450:4010:c06::66
+a.android.com	2a00:1450:4010:c09::64
+b.android.com	2a00:1450:4010:c09::64
+m.android.com	2a00:1450:4010:c09::64
+connectivitycheck.android.com	2a00:1450:4010:c09::64
+d.android.com	2a00:1450:4010:c09::64
+dev.android.com	2a00:1450:4010:c09::64
+market.android.com	2a00:1450:4010:c09::64
+r.android.com	2a00:1450:4010:c09::64
+android.com	2a00:1450:4010:c03::68
+developer.android.com	2a00:1450:4010:c03::6a
 # Android End
 
 # Apkmirror Start
