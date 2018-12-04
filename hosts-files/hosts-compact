@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-16
+# Last updated: 2018-12-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15,9 +15,14 @@
 2a06:8ec0:3::1:59cb	185-122-58-249.googlehosts.org tg-8.googlehosts.org
 2a06:82c2:0:1272::1	103-105-48-234.googlehosts.org tg-9.googlehosts.org
 2607:fcd0:100:1926::8152:9bab	23-226-136-24.googlehosts.org ss-1.googlehosts.org
-2607:fcd0:100:1926::c28d:6e0d	23-226-136-112.googlehosts.org ss-2.googlehosts.org
-2607:fcd0:100:1925::fdb8:2313	104-223-56-187.googlehosts.org
+2607:fcd0:100:e50f::8706:7e6	107-150-12-229.googlehosts.org
+2607:fcd0:100:1928::1c21:2b4d	104-129-16-244.googlehosts.org
+2607:fcd0:100:1926::c28d:6e0d	23-226-136-132.googlehosts.org
+2607:fcd0:100:e50f::651c:85c	104-223-60-17.googlehosts.org ss-2.googlehosts.org
+2607:fcd0:100:e50f::fe23:8346	66-154-108-62.googlehosts.org
 2607:fcd0:100:1926::f69e:8063	23-226-136-216.googlehosts.org ss-3.googlehosts.org
+2607:fcd0:100:1912::d8cb:1617	155-94-137-77.googlehosts.org
+2a00:b700::2:36a	185-22-152-42.googlehosts.org
 2a02:26f0:e8::6856:6e4b	static.ak.instagram.com
 2a02:26f0:e8::6856:6ec3	images.ak.instagram.com
 2a02:26f0:a1:2a2::1931	s.pinimg.com

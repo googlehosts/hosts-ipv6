@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-16
+# Last updated: 2018-12-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -32,11 +32,16 @@ add address=2a06:82c2:0:1272::1 name=103-105-48-234.googlehosts.org
 add address=2a06:82c2:0:1272::1 name=tg-9.googlehosts.org
 add address=2607:fcd0:100:1926::8152:9bab name=23-226-136-24.googlehosts.org
 add address=2607:fcd0:100:1926::8152:9bab name=ss-1.googlehosts.org
-add address=2607:fcd0:100:1926::c28d:6e0d name=23-226-136-112.googlehosts.org
-add address=2607:fcd0:100:1926::c28d:6e0d name=ss-2.googlehosts.org
-add address=2607:fcd0:100:1925::fdb8:2313 name=104-223-56-187.googlehosts.org
+add address=2607:fcd0:100:e50f::8706:7e6 name=107-150-12-229.googlehosts.org
+add address=2607:fcd0:100:1928::1c21:2b4d name=104-129-16-244.googlehosts.org
+add address=2607:fcd0:100:1926::c28d:6e0d name=23-226-136-132.googlehosts.org
+add address=2607:fcd0:100:e50f::651c:85c name=104-223-60-17.googlehosts.org
+add address=2607:fcd0:100:e50f::651c:85c name=ss-2.googlehosts.org
+add address=2607:fcd0:100:e50f::fe23:8346 name=66-154-108-62.googlehosts.org
 add address=2607:fcd0:100:1926::f69e:8063 name=23-226-136-216.googlehosts.org
 add address=2607:fcd0:100:1926::f69e:8063 name=ss-3.googlehosts.org
+add address=2607:fcd0:100:1912::d8cb:1617 name=155-94-137-77.googlehosts.org
+add address=2a00:b700::2:36a name=185-22-152-42.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
