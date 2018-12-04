@@ -268,4 +268,19 @@
 2a03:2880:f00a:13:face:b00c::1823	video.xx.fbcdn.net
 # Facebook End
 
+# Gmail Start
+2a00:1450:4011:804::1016	gmail.com
+2a00:1450:4011:805::1016	www.gmail.com
+2a00:1450:4011:805::1016	googlemail.l.google.com
+2a00:1450:4011:804::101d	mail-settings.google.com
+2a00:1450:4011:804::1015	m.gmail.com
+2a00:1450:4011:805::1015	m.googlemail.com
+2a00:1450:4010:c0e::64	gmail.google.com
+2a00:1450:4010:c0b::64	mail.google.com
+2a00:1450:4011:808::1015	inbox.google.com
+2a00:1450:4011:805::101d	chatenabled.mail.google.com
+2a00:1450:4011:808::101d	filetransferenabled.mail.google.com
+2a00:1450:4011:809::101d	isolated.mail.google.com
+# Gmail End
+
 # Modified Hosts End

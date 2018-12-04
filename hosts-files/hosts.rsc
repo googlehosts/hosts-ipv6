@@ -270,4 +270,19 @@ add address=2a03:2880:f00a:e:face:b00c::3 name=external.xx.fbcdn.net
 add address=2a03:2880:f00a:13:face:b00c::1823 name=video.xx.fbcdn.net
 # Facebook End
 
+# Gmail Start
+add address=2a00:1450:4011:804::1016 name=gmail.com
+add address=2a00:1450:4011:805::1016 name=www.gmail.com
+add address=2a00:1450:4011:805::1016 name=googlemail.l.google.com
+add address=2a00:1450:4011:804::101d name=mail-settings.google.com
+add address=2a00:1450:4011:804::1015 name=m.gmail.com
+add address=2a00:1450:4011:805::1015 name=m.googlemail.com
+add address=2a00:1450:4010:c0e::64 name=gmail.google.com
+add address=2a00:1450:4010:c0b::64 name=mail.google.com
+add address=2a00:1450:4011:808::1015 name=inbox.google.com
+add address=2a00:1450:4011:805::101d name=chatenabled.mail.google.com
+add address=2a00:1450:4011:808::101d name=filetransferenabled.mail.google.com
+add address=2a00:1450:4011:809::101d name=isolated.mail.google.com
+# Gmail End
+
 # Modified Hosts End
