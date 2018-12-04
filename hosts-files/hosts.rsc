@@ -285,4 +285,63 @@ add address=2a00:1450:4011:808::101d name=filetransferenabled.mail.google.com
 add address=2a00:1450:4011:809::101d name=isolated.mail.google.com
 # Gmail End
 
+# Google Apis Start
+add address=2a00:1450:4010:c01::5f name=www.googleapis.com
+add address=2a00:1450:4010:c02::5f name=ajax.googleapis.com
+add address=2a00:1450:4010:c03::5f name=fonts.googleapis.com
+add address=2a00:1450:4010:c05::5f name=googleapis.com
+add address=2a00:1450:4010:c05::5f name=android.googleapis.com
+add address=2a00:1450:4010:c05::5f name=appinvite-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=appinvite-ipv4-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=redirector-bigcache.googleapis.com
+add address=2a00:1450:4010:c05::5f name=bigcache.googleapis.com
+add address=2a00:1450:4010:c05::5f name=ct.googleapis.com
+add address=2a00:1450:4010:c05::5f name=chart.googleapis.com
+add address=2a00:1450:4010:c05::5f name=chart.apis.google.com
+add address=2a00:1450:4010:c05::5f name=content.googleapis.com
+add address=2a00:1450:4010:c05::5f name=datasaver.googleapis.com
+add address=2a00:1450:4010:c05::5f name=device-provisioning.googleapis.com
+add address=2a00:1450:4010:c05::5f name=youtube.googleapis.com
+add address=2a00:1450:4010:c05::5f name=youtubei.googleapis.com
+add address=2a00:1450:4010:c05::5f name=appengine.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=bigtableadmin.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=clouddebugger.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=cloudconfig.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=cloudpersonalization-pa.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=cloudsupport.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=cloudusersettings-pa.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=dataflow.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=datahub.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=firebasestorage.googleapis.com
+add address=2a00:1450:4010:c05::5f name=firebasedurablelinks-pa.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=firebaserules.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=firebasestorage.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=gcmcontextualcampaign-pa.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=growth-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=instantmessaging-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=khms0.googleapis.com
+add address=2a00:1450:4010:c05::5f name=khms1.googleapis.com
+add address=2a00:1450:4010:c05::5f name=logging.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=maps.googleapis.com
+add address=2a00:1450:4010:c05::5f name=memcache.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=ml.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=mts0.googleapis.com
+add address=2a00:1450:4010:c05::5f name=mts1.googleapis.com
+add address=2a00:1450:4010:c05::5f name=mts2.googleapis.com
+add address=2a00:1450:4010:c05::5f name=mts3.googleapis.com
+add address=2a00:1450:4010:c05::5f name=mobilecrashreporting.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=mobilesdk-pa.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=opensourceprojects-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=photos.googleapis.com
+add address=2a00:1450:4010:c05::5f name=plus.googleapis.com
+add address=2a00:1450:4010:c05::5f name=reminders-pa.clients6.google.com
+add address=2a00:1450:4010:c05::5f name=securetoken.googleapis.com
+add address=2a00:1450:4010:c05::5f name=remoting-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=personalsafety-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=clientmetrics-pa.googleapis.com
+add address=2a00:1450:4010:c05::5f name=music-pa.clients6.google.com
+add address=2a00:1450:4010:c06::5f name=31061001.googleapis.com
+add address=2a00:1450:4010:c06::5f name=26644787.googleapis.com
+# Google Apis End
+
 # Modified Hosts End

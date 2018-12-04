@@ -283,4 +283,63 @@ filetransferenabled.mail.google.com	2a00:1450:4011:808::101d
 isolated.mail.google.com	2a00:1450:4011:809::101d
 # Gmail End
 
+# Google Apis Start
+www.googleapis.com	2a00:1450:4010:c01::5f
+ajax.googleapis.com	2a00:1450:4010:c02::5f
+fonts.googleapis.com	2a00:1450:4010:c03::5f
+googleapis.com	2a00:1450:4010:c05::5f
+android.googleapis.com	2a00:1450:4010:c05::5f
+appinvite-pa.googleapis.com	2a00:1450:4010:c05::5f
+appinvite-ipv4-pa.googleapis.com	2a00:1450:4010:c05::5f
+redirector-bigcache.googleapis.com	2a00:1450:4010:c05::5f
+bigcache.googleapis.com	2a00:1450:4010:c05::5f
+ct.googleapis.com	2a00:1450:4010:c05::5f
+chart.googleapis.com	2a00:1450:4010:c05::5f
+chart.apis.google.com	2a00:1450:4010:c05::5f
+content.googleapis.com	2a00:1450:4010:c05::5f
+datasaver.googleapis.com	2a00:1450:4010:c05::5f
+device-provisioning.googleapis.com	2a00:1450:4010:c05::5f
+youtube.googleapis.com	2a00:1450:4010:c05::5f
+youtubei.googleapis.com	2a00:1450:4010:c05::5f
+appengine.clients6.google.com	2a00:1450:4010:c05::5f
+bigtableadmin.clients6.google.com	2a00:1450:4010:c05::5f
+clouddebugger.clients6.google.com	2a00:1450:4010:c05::5f
+cloudconfig.clients6.google.com	2a00:1450:4010:c05::5f
+cloudpersonalization-pa.clients6.google.com	2a00:1450:4010:c05::5f
+cloudsupport.clients6.google.com	2a00:1450:4010:c05::5f
+cloudusersettings-pa.clients6.google.com	2a00:1450:4010:c05::5f
+dataflow.clients6.google.com	2a00:1450:4010:c05::5f
+datahub.clients6.google.com	2a00:1450:4010:c05::5f
+firebasestorage.googleapis.com	2a00:1450:4010:c05::5f
+firebasedurablelinks-pa.clients6.google.com	2a00:1450:4010:c05::5f
+firebaserules.clients6.google.com	2a00:1450:4010:c05::5f
+firebasestorage.clients6.google.com	2a00:1450:4010:c05::5f
+gcmcontextualcampaign-pa.clients6.google.com	2a00:1450:4010:c05::5f
+growth-pa.googleapis.com	2a00:1450:4010:c05::5f
+instantmessaging-pa.googleapis.com	2a00:1450:4010:c05::5f
+khms0.googleapis.com	2a00:1450:4010:c05::5f
+khms1.googleapis.com	2a00:1450:4010:c05::5f
+logging.clients6.google.com	2a00:1450:4010:c05::5f
+maps.googleapis.com	2a00:1450:4010:c05::5f
+memcache.clients6.google.com	2a00:1450:4010:c05::5f
+ml.clients6.google.com	2a00:1450:4010:c05::5f
+mts0.googleapis.com	2a00:1450:4010:c05::5f
+mts1.googleapis.com	2a00:1450:4010:c05::5f
+mts2.googleapis.com	2a00:1450:4010:c05::5f
+mts3.googleapis.com	2a00:1450:4010:c05::5f
+mobilecrashreporting.clients6.google.com	2a00:1450:4010:c05::5f
+mobilesdk-pa.clients6.google.com	2a00:1450:4010:c05::5f
+opensourceprojects-pa.googleapis.com	2a00:1450:4010:c05::5f
+photos.googleapis.com	2a00:1450:4010:c05::5f
+plus.googleapis.com	2a00:1450:4010:c05::5f
+reminders-pa.clients6.google.com	2a00:1450:4010:c05::5f
+securetoken.googleapis.com	2a00:1450:4010:c05::5f
+remoting-pa.googleapis.com	2a00:1450:4010:c05::5f
+personalsafety-pa.googleapis.com	2a00:1450:4010:c05::5f
+clientmetrics-pa.googleapis.com	2a00:1450:4010:c05::5f
+music-pa.clients6.google.com	2a00:1450:4010:c05::5f
+31061001.googleapis.com	2a00:1450:4010:c06::5f
+26644787.googleapis.com	2a00:1450:4010:c06::5f
+# Google Apis End
+
 # Modified Hosts End
