@@ -4,17 +4,19 @@
 [doodle]: https://www.google.com/logos/doodles/2019/first-image-of-a-black-hole-6224607435030528.2-2xa.gif
 [doodle-story]: https://www.google.com/doodles/first-image-of-a-black-hole
 
-|    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
+|    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    hosts镜像    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
-| [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge]][mirror-link] |
+| [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge-coding]][mirror-link-coding][![mirror-badge-qvqnetwork]][mirror-link-qvqnetwork] |
 
 [telegram-badge]: https://img.shields.io/badge/Google%20Hosts-Telegram-brightgreen.svg?style=flat-square
 [telegram-group-link]: https://t.me/googlehosts
 [telegram-channel-link]: https://t.me/googlehostsnews
 [travis-badge]: https://img.shields.io/travis/googlehosts/hosts-ipv6/hosts-source.svg?style=flat-square
 [travis-link]: https://travis-ci.org/googlehosts/hosts-ipv6
-[mirror-badge]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
-[mirror-link]: https://coding.net/u/scaffrey/p/hosts-ipv6/git
+[mirror-badge-coding]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
+[mirror-badge-qvqnetwork]: https://user-images.githubusercontent.com/30754849/74812238-0ecae380-532e-11ea-84a7-9f6e347b73ee.png
+[mirror-link-coding]: https://scaffrey.coding.net/p/hosts-ipv6/git
+[mirror-link-qvqnetwork]: https://git.qvq.network/googlehosts/hosts-ipv6
 
 我们立足于美利坚合众国，对全球华人服务，受北美法律保护。版权所有，未经授权禁止复制或建立镜像。
 
